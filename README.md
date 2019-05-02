@@ -15,3 +15,8 @@
     apt -y install libleptonica-dev
     apt -y install libboost-all-dev
 
+
+
+    git submodule update --init --recursive
+
+    
